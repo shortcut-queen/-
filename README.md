@@ -5,4 +5,5 @@
 
 
 点击开始随机后，出现一个随机结果
+
 ![image](https://user-images.githubusercontent.com/37370675/115332417-5c5d0d80-a1ca-11eb-94f2-044680d4b013.png)
